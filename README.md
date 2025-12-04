@@ -1,15 +1,14 @@
 ## 👋 Hey there! Welcome to my QA Portfolio
 
 Hi, I'm a Manual QA Tester with a superpower for sniffing out sneaky bugs and making software AWESOME!  
-Freshly equipped from GenofIT’s adventure-packed training 🏕️ (theory, hands-on, real projects!), I blend QA wizardry 🎩 with a love for fun exploratory testing.  
-Whether I’m hunting bugs, perfecting docs, or adding sparkle with AI 🤖✨—I believe QA is best with curiosity, coffee ☕, and teamwork!  
+Freshly equipped from adventure-packed training 🏕️ (theory, hands-on, real projects!), I blend QA wizardry 🎩 with a love for fun exploratory testing.  Whether I’m hunting bugs, perfecting docs, or adding sparkle with AI 🤖✨—I believe QA is best with curiosity, coffee ☕, and teamwork!  
 My motto: “Quality first, bugs LAST!” 🚦.
 
 ---
 
 ### 🚀 My QA Journey Highlights
 
-- **Week 1:** Mastered professional documentation standards (ISTQB, IEEE 829), crafting bug reports with laser-focused titles, clear steps, visuals (hello Loom!), and severity/priority. I even use AI prompts (ChatGPT/Claude) to make reports sparkle ✨.
+- Mastered professional documentation standards (ISTQB, IEEE 829), crafting bug reports with laser-focused titles, clear steps, visuals, and severity/priority✨.
 - **Hands-On:** Built smoke/sanity testing checklists, test cases/scenarios with traceability matrices (RTM) – sharpening my attention to detail, and already started this GitHub portfolio to showcase my real-world artifacts.
 - **Frontend Fun:** Validated HTML/CSS, tamed browser quirks, tested responsiveness, and tackled accessibility like a digital superhero (WCAG, WAVE, NVDA).
 - **UI/UX Adventures:** Mapped user journeys, ran usability and A/B tests, and wielded tools like Playwright and Hotjar to banish design gremlins.
@@ -17,8 +16,6 @@ My motto: “Quality first, bugs LAST!” 🚦.
 - **The QA Remix:** Exploratory, regression, functional, and edge-case testing all in agile settings, turning feedback sessions into engaging "defect detective" games—because QA can be fun and fierce!
 
 ---
-
-### 🧰 Toolbox of Awesomeness
 
 ## 🛠️ My Epic QA Toolbox
 
@@ -56,7 +53,7 @@ My motto: “Quality first, bugs LAST!” 🚦.
 
 ### 😄 Fun Facts About Me
 
-- QA meme collector
+- QA meme collector 😄
 - I believe “every bug tells a story” — and some have epic plot twists!
 - My favorite debugging tool: coffee ☕ and curiosity.
 - I turn feedback sessions into “Defect Detective” challenges (who found the toughest bug this sprint?).
