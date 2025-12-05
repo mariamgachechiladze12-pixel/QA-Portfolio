@@ -57,8 +57,6 @@ My motto: “Quality first, bugs LAST!” 🚦.
 - I believe “every bug tells a story” — and some have epic plot twists!
 - My favorite debugging tool: coffee ☕ and curiosity.
 - I turn feedback sessions into “Defect Detective” challenges (who found the toughest bug this sprint?).
-- If a design flaw could tank user satisfaction, you’ll find me (like a superhero in the shadows).
-- I ethically use AI—but promise never to let a bot write my bug jokes.
 - Favorite bug? The one that acts perfectly until Friday at 5:59 PM 🐞⏰  
 - Positive vibes: QA should be a celebration, not just a checkpoint 🎉
 
